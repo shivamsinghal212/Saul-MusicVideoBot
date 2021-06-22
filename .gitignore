@@ -1,0 +1,8 @@
+/env
+/venv
+*.mp3
+*.mp4
+/assets
+*.json
+.DS_Store
+.idea
